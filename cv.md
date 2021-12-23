@@ -10,11 +10,11 @@
 ## Code Example
 ## Expirience
 ## Education 
-* University: Karaganda Technical University
+1. University: Karaganda Technical University
  * Speciality: 5B071600 "Device making" 2013-2017
  * Speciality: Masters – 6M071600 "Device making" 2018-2020
-* Courses: 
+2. Courses: 
  * HTML Academy
  * CS50 lectures
 ## English
-A2 — Предпороговый уровень (Pre-Intermediate)
+A2 (I can read technical literature, but i don't have real speaking practice)
