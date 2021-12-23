@@ -9,6 +9,7 @@
 ## Skills
 ## Code Example
 ## Expirience
+I don't have expirience at real projects.
 ## Education 
 1. University: Karaganda Technical University
  * Speciality: 5B071600 "Device making" 2013-2017
