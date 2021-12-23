@@ -3,7 +3,7 @@
 * **Location**: Kazakhstan, Karaganda
 * **Email**: dima260595@gmail.com
 * **Phone**: +77753516931
-* **GitHub**: [https://github.com/DmitriySerdyukov] (DmitriySerdyukov)
+* **GitHub**: https://github.com/DmitriySerdyukov
 ## About me
 
 ## Skills
