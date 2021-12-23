@@ -12,6 +12,12 @@
 * GIT
 * C# (base)
 ## Code Example
+``` **C#**
+int a = 5;
+int b = 4;
+int c = a + b;
+Console.WriteLine(c);
+```
 ## Expirience
 I don't have expirience at real projects.
 ## Education 
