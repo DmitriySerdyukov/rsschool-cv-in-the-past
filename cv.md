@@ -7,6 +7,10 @@
 ## About me
 
 ## Skills
+* HTML
+* CSS
+* GIT
+* C# (base)
 ## Code Example
 ## Expirience
 I don't have expirience at real projects.
