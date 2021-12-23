@@ -5,7 +5,7 @@
 * **Phone**: +77753516931
 * **GitHub**: https://github.com/DmitriySerdyukov
 ## About me
-
+I'm calm and reasonable, I know how to calculate time, I'm constantly trying to learn something new. I'm a good team worker, but i can work alone.
 ## Skills
 * HTML
 * CSS
